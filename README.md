@@ -28,7 +28,7 @@ Hycam kit uses serial monitor to communicate with the app, and the app itself ca
 
 ## App setup
 
-hycam app available in python-based and windows app. For the windows app, you can easily install it by running the `hycamsetup.exe` file. And for the python-based, you should have all of the requirements shown below before use it:
+Hycam app available in python-based and windows app. For the windows app, you can easily install it by running the `hycamsetup.exe` file. And for the python-based, you should have all of the requirements shown below before use it:
 
 - Python 3.9.7+
 - Mediapipe 0.8.9+
