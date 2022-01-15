@@ -26,7 +26,7 @@ Pandemic already change every aspect in the world including education and learni
 
 Hycam kit uses serial monitor to communicate with the app, and the app itself can be running well with a camera connected to your device, so make sure you already pluged in both serial and camera USB cable first into your device before running hycam app.
 
-## App setup
+## Setup
 
 Hycam app available in python-based and windows app. For the windows app, you can easily install it by running the `hycamsetup.exe` file. And for the python-based, you should have all of the requirements shown below before use it:
 
@@ -43,6 +43,15 @@ If you already have `Python 3.9.7+` on your device, you can easily install all o
 ```python
 pip install -r requirements.txt
 ```
+
+## Feature
+
+- ✔ Tracking teacher face while teaching in front of the class, and students' faces when near the mic.
+- ✔ Perform rotations depending on the following hand gesture commands:
+
+  - ✋ Camera rotate to student mic location
+  - 👍 Camera rotate back to teacher location
+  - 👌 Camera rotate to all over the student in the class 
 
 ## Retrux's development lab
 
