@@ -14,9 +14,7 @@
 
 ![Animation](assets/hero.gif)
 
-[![OS](https://img.shields.io/badge/OS-Windows-9F66FF)](#)
-[![Lang](https://img.shields.io/badge/Python-FDCE61)](#)
-[![Tag](https://img.shields.io/badge/Embeded%20System-41D0FD)](#)
+[![OS](https://img.shields.io/badge/v1.0.0-Install-9F66FF)](https://github.com/retruxstudio/hycam/releases/tag/v1.0.0)
 
 ## About the Project
 
@@ -28,7 +26,7 @@ Hycam kit uses serial monitor to communicate with the app, and the app itself ca
 
 ## Setup
 
-Hycam app available in python-based and windows app. For the windows app, you can easily install it by running the `hycamsetup.exe` file. And for the python-based, you should have all of the requirements shown below before use it:
+Hycam app available in python-based and windows app. For the windows app, you can install it from <a href="https://github.com/retruxstudio/hycam/releases/tag/v1.0.0">Release page</a>. And for the python-based, you should have all of the requirements shown below before use it:
 
 - Python 3.9.7+
 - Mediapipe 0.8.9+
